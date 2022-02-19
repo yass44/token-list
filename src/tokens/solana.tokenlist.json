@@ -109307,12 +109307,12 @@
       ]
     },
     {
-      "chainId": 101,
       "address": "Da1B9dCFi8im1KL9Gf3Uwmnq67SjgLdxtmZ8wpMVTwb3",
-      "symbol": "VSN",
-      "name": "Vesna",
+      "chainId": 101,
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/pavelbrn/LinkData/main/IMGs/VesnaIconLogoPNG.png",
+      "name": "Vesna",
+      "symbol": "VSN",
       "tags": [
         "social-token"
       ]
@@ -109322,7 +109322,7 @@
       "address": "2JTYipcweQkYbdk3WqVttbaGwnuR6b7vLSEr153J5ZS7",
       "symbol": "JUB",
       "name": "JubaCoin",
-      "decimals": 4
+      "decimals": 4,
     }
   ],
   "version": {
