@@ -109316,14 +109316,14 @@
       "tags": [
         "social-token"
       ]
-    }
+    },
     {
       "chainId": 101,
       "address": "2JTYipcweQkYbdk3WqVttbaGwnuR6b7vLSEr153J5ZS7",
       "symbol": "JUB",
       "name": "JubaCoin",
       "decimals": 4
-    }
+    },
   ],
   "version": {
     "major": 0,
